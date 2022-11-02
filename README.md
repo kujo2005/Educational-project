@@ -1,6 +1,6 @@
 ### А/В тест для интернет магазина 
 - выбрать наиболее перспективную гипотезу и проанализировать результаты А/В теста
--  Папка -  Папка [analysis of AB test for an online store]( https://github.com/kujo2005/Educational-project/tree/main/Analysis%20of%20user%20behavior%20in%20the%20app /)
+-  Папка [analysis of AB test for an online store]( https://github.com/kujo2005/Educational-project/tree/main/Analysis%20of%20user%20behavior%20in%20the%20app)
 - Используемые библиотеки (Pandas, datetime, numpy, matplotlib.pyplot, seaborn ,warnings, scipy.stats as stats)
 
 
